@@ -38,6 +38,7 @@ def run_linux_command(command: str):
 
 
 _, CURRENT_TAG, _ = run_linux_command("git describe --tags --always")
+_, CURRENT_COMMIT, _ = run_linux_command(f"git rev-parse HEAD")
 
 list_ = {}
 games = [f for f in os.listdir("./games/") if os.path.isdir("./games/" + f)]
@@ -162,5 +163,5 @@ with open('assets.json', 'w', encoding="utf-8") as outfile:
 with open('last_versions.json', 'w', encoding="utf-8") as outfile:
     json.dump(lastVersions, outfile, indent=4, sort_keys=True)
 
-with open(f"{FILE_DIR}/last_tag.txt", "w", encoding="utf-8") as f:
-    f.write(CURRENT_TAG)
+with open(f"{FILE_DIR}/scripts/last_tag.txt", "w", encoding="utf-8") as f:
+    f.write(CURRENT_COMMIT)
