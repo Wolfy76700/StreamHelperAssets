@@ -14,7 +14,19 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (15/15)
 
 ## Asuka 120% LimitOver BURNING Fest.
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Advanced V.G. 2
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -124,7 +136,19 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Granblue Fantasy Versus: Rising
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Guilty Gear -STRIVE-
 - Character [Queen Dizzy]: Character name [Queen Dizzy] doesn't exist in StartGG
@@ -141,7 +165,19 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 
 ## Hyper Dragon Ball Z
-Game has no characters in startgg...? Or do we have a wrong game id?
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Fist of the North Star
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -281,7 +317,19 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Mario Tennis Aces
-### Coverage: (30/30)
+Traceback (most recent call last):
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 71, in process_directory
+    game_data = get_game_data(
+  File "/home/runner/work/StreamHelperAssets/StreamHelperAssets/scripts/check_startgg_config.py", line 48, in get_game_data
+    data = json.loads(data.text)
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/opt/hostedtoolcache/Python/3.9.20/x64/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+
 
 ## Multiversus
 - Character [Nubia]: Character name [Nubia] doesn't exist in StartGG
