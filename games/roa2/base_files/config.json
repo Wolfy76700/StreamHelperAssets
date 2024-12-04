@@ -1384,7 +1384,7 @@
   "description": "Base config to use this game.",
   "name": "Rivals of Aether II",
   "smashgg_game_id": 53945,
-  "version": "24.11.26.54005",
+  "version": "24.12.04.56888",
   "stage_to_codename": {
     "Aetherian Forest": {
       "codename": "AetherianForest"
