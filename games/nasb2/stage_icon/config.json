@@ -8,5 +8,67 @@
   "average_size": {
     "x": 1920.0,
     "y": 1080.0
+  },
+  "image_sizes": {
+    "Pariah's Keep": {
+      "N/A": {
+        "x": 1920,
+        "y": 1080
+      }
+    },
+    "Technodrome Takedown": {
+      "N/A": {
+        "x": 1920,
+        "y": 1080
+      }
+    },
+    "Irken Armada Invasion": {
+      "N/A": {
+        "x": 1920,
+        "y": 1080
+      }
+    },
+    "Tremorton Joyride": {
+      "N/A": {
+        "x": 1920,
+        "y": 1080
+      }
+    },
+    "Food Dream": {
+      "N/A": {
+        "x": 1920,
+        "y": 1080
+      }
+    },
+    "Jellyfish Fields": {
+      "N/A": {
+        "x": 1920,
+        "y": 1080
+      }
+    },
+    "Royal Woods Cemetery": {
+      "N/A": {
+        "x": 1920,
+        "y": 1080
+      }
+    },
+    "Harmonic Convergence": {
+      "N/A": {
+        "x": 1920,
+        "y": 1080
+      }
+    },
+    "Rooftop Rumble": {
+      "N/A": {
+        "x": 1920,
+        "y": 1080
+      }
+    },
+    "Miracle City Volcano": {
+      "N/A": {
+        "x": 1920,
+        "y": 1080
+      }
+    }
   }
 }

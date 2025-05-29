@@ -11,5 +11,181 @@
   "average_size": {
     "x": 1273.0,
     "y": 717.0
+  },
+  "image_sizes": {
+    "temple": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "kong_jungle_64": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "fourside": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "dream_land": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "big_blue": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "battlefield": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "fountain_of_dreams": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "final_destination": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "brinstar": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "yoshis_island": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "peachs_castle": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "mushroom_kingdom": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "jungle_japes": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "onett": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "brinstar_depths": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "great_bay": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "green_greens": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "yoshis_story": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "corneria": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "venom": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "pokefloats": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "yoshis_island_64": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "mushroom_kingdom_ii": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "icicle_mountain": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "mute_city": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "rainbow_cruise": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "pokemon_stadium": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "flat_zone": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    },
+    "kongo_jungle": {
+      "N/A": {
+        "x": 1273,
+        "y": 717
+      }
+    }
   }
 }

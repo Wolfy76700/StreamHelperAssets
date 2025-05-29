@@ -11,5 +11,67 @@
   "average_size": {
     "x": 6856.6,
     "y": 3855.6
+  },
+  "image_sizes": {
+    "MerchantPort": {
+      "N/A": {
+        "x": 7334,
+        "y": 4124
+      }
+    },
+    "Hodojo": {
+      "N/A": {
+        "x": 7334,
+        "y": 4124
+      }
+    },
+    "RockWall": {
+      "N/A": {
+        "x": 7334,
+        "y": 4124
+      }
+    },
+    "Julesvale": {
+      "N/A": {
+        "x": 7334,
+        "y": 4124
+      }
+    },
+    "TempestPeak": {
+      "N/A": {
+        "x": 7334,
+        "y": 4124
+      }
+    },
+    "GodaiDelta": {
+      "N/A": {
+        "x": 2560,
+        "y": 1440
+      }
+    },
+    "HyperboreanHarbor": {
+      "N/A": {
+        "x": 7334,
+        "y": 4124
+      }
+    },
+    "AirArmada": {
+      "N/A": {
+        "x": 7334,
+        "y": 4124
+      }
+    },
+    "FireCapital": {
+      "N/A": {
+        "x": 7334,
+        "y": 4124
+      }
+    },
+    "AetherianForest": {
+      "N/A": {
+        "x": 7334,
+        "y": 4124
+      }
+    }
   }
 }

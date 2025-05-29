@@ -11,5 +11,253 @@
   "average_size": {
     "x": 176.0,
     "y": 176.0
+  },
+  "image_sizes": {
+    "75m": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "temple": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "pokemon_stadium_2": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "shadow_moses_island": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "big_blue": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "battlefield": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "flat_zone_2": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "final_destination": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "brinstar": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "yoshis_island": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "mushroomy_kingdom": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "mario_circuit": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "norfair": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "skyworld": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "castle_siege": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "mario_bros": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "jungle_japes": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "onett": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "pictochat": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "spear_pillar": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "green_greens": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "bridge_of_eldin": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "corneria": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "frigate_orpheon": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "halberd": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "pirate_ship": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "hanenbow": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "yoshis_island_melee": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "green_hill_zone": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "rumble_falls": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "summit": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "warioware": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "smashville": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "delfino_plaza": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "rainbow_cruise": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "distant_planet": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "pokemon_stadium": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "luigis_mansion": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "port_town": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "lylat_cruise": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    },
+    "new_pork_city": {
+      "N/A": {
+        "x": 176,
+        "y": 176
+      }
+    }
   }
 }

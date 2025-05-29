@@ -11,5 +11,85 @@
   "average_size": {
     "x": 475.38461538461536,
     "y": 460.61538461538464
+  },
+  "image_sizes": {
+    "springtime": {
+      "N/A": {
+        "x": 512,
+        "y": 512
+      }
+    },
+    "rusty_creek": {
+      "N/A": {
+        "x": 512,
+        "y": 512
+      }
+    },
+    "shallow_grave": {
+      "N/A": {
+        "x": 512,
+        "y": 512
+      }
+    },
+    "tidehunters": {
+      "N/A": {
+        "x": 512,
+        "y": 512
+      }
+    },
+    "lost_temple": {
+      "N/A": {
+        "x": 512,
+        "y": 512
+      }
+    },
+    "echo_isles2": {
+      "N/A": {
+        "x": 600,
+        "y": 434
+      }
+    },
+    "concealed_hill": {
+      "N/A": {
+        "x": 416,
+        "y": 512
+      }
+    },
+    "last_refuge": {
+      "N/A": {
+        "x": 300,
+        "y": 300
+      }
+    },
+    "amazonia": {
+      "N/A": {
+        "x": 512,
+        "y": 512
+      }
+    },
+    "secret_valley": {
+      "N/A": {
+        "x": 256,
+        "y": 240
+      }
+    },
+    "terenas_stand": {
+      "N/A": {
+        "x": 512,
+        "y": 512
+      }
+    },
+    "autumn_leaves": {
+      "N/A": {
+        "x": 512,
+        "y": 512
+      }
+    },
+    "northern_isles": {
+      "N/A": {
+        "x": 512,
+        "y": 406
+      }
+    }
   }
 }

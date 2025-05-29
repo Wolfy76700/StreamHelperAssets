@@ -10,5 +10,769 @@
   "average_size": {
     "x": 492.9763779527559,
     "y": 363.0
+  },
+  "image_sizes": {
+    "mushroom_kindgdom": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "zebes_omega": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "oshoe_castle": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "smashketball": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "zebes_dl": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "mushroom_kindgom_omega": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "muda_kingdom": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "mt_dedede": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "spiral_mountain": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "first_destination_remix": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "final_destination_dl": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "glacial_river": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "meta_crystal_dl": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "dream_land": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "hyrule_castle_omega": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "pokemon_stadium_2": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "twilight_city": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "goomba_road": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "hyrule_castle_dl": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "tower_of_heaven": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "mushroom_kindgom_dl": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "sector_z_omega": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "sector_z": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "n64": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "gerudo_valley": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "big_blue": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "battlefield": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "reverse_castle": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "bowsers_stadium": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "norfair_sr": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "fountain_of_dreams": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "subcon": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "flat_zone_2": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "peachs_castle_beta": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "frays_stage": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "sector_z_sr": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "duel_zone_dl": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "hyrule_temple": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "final_destination": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "cool_cool_mountain": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "congo_jungle_dl": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "peachs_castle_omega": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "yoshis_island": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "peachs_castle": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "mad_monster_mansion": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "duel_zone": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "mute_city_sr": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "cool_cool_mountain_sr": {
+      "N/A": {
+        "x": 490,
+        "y": 363
+      }
+    },
+    "norfair": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "toads_turnpike": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "crateria_dl": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "dream_land_beta_1": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "frays_stage_night": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "corneria_city": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "saffron_city_omega": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "random": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "peachs_castle_dl": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "bowsers_keep": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "castle_siege": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "peachs_castle_2": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "hyrule_castle_sr": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "jungle_japes": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "onett": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "rith_essa": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "yoshis_island_dl": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "saffron_city_dl": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "dr_mario": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "deku_tree": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "kitchen_island": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "skyloft": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "warioware_inc": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "great_bay": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "congo_jungle": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "melrode": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "draculas_castle": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "cassino_night_zone": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "dreamland": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "rainbow_road": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "mementos": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "game_boy_land": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "pirate_land": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "planet_clancer": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "first_destination": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "yoshis_island_2": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "yoshis_story": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "corneria": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "ganons_tower": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "dream_greens": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "dragon_king_remix": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "venom": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "gym_leader_castle": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "world_1_1": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "dream_land_beta_2": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "planet_zebes": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "showdown": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "green_hill_zone": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "edo_town": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "congo_falls": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "glacial_river_remix": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "how_to_play": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "smashville": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "delfino_plaza": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "tent_final_destination": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "winter_dream_land": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "hyrule_castle": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "mute_city": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "deku_tree_dl": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "saffron_city": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "pokemon_stadium": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "flat_zone": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "mushroom_kingdom_sr": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "tal_tal_heights_sr": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "dragon_king": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "metallic_madness_zone": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "meta_crystal": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "crateria": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "windy": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "yoshis_island_omega": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "zebes_landing": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "sector_z_dl": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "congo_jungle_omega": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "tal_tal_heights": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "datadyne": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "dream_land_dl": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "new_pork_city": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "mini_yoshis_island": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    },
+    "cool_cool_mountain_dl": {
+      "N/A": {
+        "x": 493,
+        "y": 363
+      }
+    }
   }
 }

@@ -10,5 +10,265 @@
   "average_size": {
     "x": 273.4418604651163,
     "y": 57.16279069767442
+  },
+  "image_sizes": {
+    "GCNDKMountain": {
+      "N/A": {
+        "x": 272,
+        "y": 56
+      }
+    },
+    "DKSummit": {
+      "N/A": {
+        "x": 272,
+        "y": 57
+      }
+    },
+    "RainbowRoad": {
+      "N/A": {
+        "x": 272,
+        "y": 57
+      }
+    },
+    "DSTwilightHouse": {
+      "N/A": {
+        "x": 273,
+        "y": 57
+      }
+    },
+    "DSPeachGardens": {
+      "N/A": {
+        "x": 272,
+        "y": 57
+      }
+    },
+    "DryDryRuins": {
+      "N/A": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "DelfinoPier": {
+      "N/A": {
+        "x": 276,
+        "y": 59
+      }
+    },
+    "GBABowserCastle3": {
+      "N/A": {
+        "x": 272,
+        "y": 57
+      }
+    },
+    "DaisyCircuit": {
+      "N/A": {
+        "x": 273,
+        "y": 56
+      }
+    },
+    "N64DKsJungleParkway": {
+      "N/A": {
+        "x": 273,
+        "y": 57
+      }
+    },
+    "ChainChompWheel": {
+      "N/A": {
+        "x": 276,
+        "y": 60
+      }
+    },
+    "MooMooMeadows": {
+      "N/A": {
+        "x": 273,
+        "y": 57
+      }
+    },
+    "ThwompDesert": {
+      "N/A": {
+        "x": 276,
+        "y": 59
+      }
+    },
+    "MoonviewHighway": {
+      "N/A": {
+        "x": 272,
+        "y": 57
+      }
+    },
+    "WariosGoldMine": {
+      "N/A": {
+        "x": 272,
+        "y": 56
+      }
+    },
+    "KoopaCape": {
+      "N/A": {
+        "x": 272,
+        "y": 55
+      }
+    },
+    "GalaxyColosseum": {
+      "N/A": {
+        "x": 276,
+        "y": 59
+      }
+    },
+    "SNESMarioCircuit3": {
+      "N/A": {
+        "x": 273,
+        "y": 57
+      }
+    },
+    "MapleTreeway": {
+      "N/A": {
+        "x": 272,
+        "y": 57
+      }
+    },
+    "FunkyStadium": {
+      "N/A": {
+        "x": 276,
+        "y": 59
+      }
+    },
+    "SNESBattleCourse4": {
+      "N/A": {
+        "x": 273,
+        "y": 57
+      }
+    },
+    "N64MarioRaceway": {
+      "N/A": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "N64SherbetLand": {
+      "N/A": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "LuigiCircuit": {
+      "N/A": {
+        "x": 273,
+        "y": 57
+      }
+    },
+    "GCNPeachBeach": {
+      "N/A": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "CoconutMall": {
+      "N/A": {
+        "x": 273,
+        "y": 57
+      }
+    },
+    "GCNMarioCircuit": {
+      "N/A": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "GCNCookieLand": {
+      "N/A": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "N64BowsersCastle": {
+      "N/A": {
+        "x": 272,
+        "y": 56
+      }
+    },
+    "DSDelfinoSquare": {
+      "N/A": {
+        "x": 274,
+        "y": 58
+      }
+    },
+    "GBABattleCourse3": {
+      "N/A": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "GCNWaluigiStadium": {
+      "N/A": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "SNESGhostValley2": {
+      "N/A": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "DSDesertHills": {
+      "N/A": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "ToadsFactory": {
+      "N/A": {
+        "x": 272,
+        "y": 56
+      }
+    },
+    "BowsersCastle": {
+      "N/A": {
+        "x": 272,
+        "y": 57
+      }
+    },
+    "DSYoshiFalls": {
+      "N/A": {
+        "x": 273,
+        "y": 57
+      }
+    },
+    "MarioCircuit": {
+      "N/A": {
+        "x": 274,
+        "y": 57
+      }
+    },
+    "GrumbleVolcano": {
+      "N/A": {
+        "x": 272,
+        "y": 55
+      }
+    },
+    "BlockPlaza": {
+      "N/A": {
+        "x": 276,
+        "y": 59
+      }
+    },
+    "GBAShyGuyBeach": {
+      "N/A": {
+        "x": 275,
+        "y": 59
+      }
+    },
+    "MushroomGorge": {
+      "N/A": {
+        "x": 272,
+        "y": 57
+      }
+    },
+    "N64Skyscraper": {
+      "N/A": {
+        "x": 274,
+        "y": 57
+      }
+    }
   }
 }

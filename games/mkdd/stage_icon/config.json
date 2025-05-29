@@ -10,5 +10,139 @@
   "average_size": {
     "x": 238.54545454545453,
     "y": 170.9090909090909
+  },
+  "image_sizes": {
+    "DinoDinoJungle": {
+      "N/A": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "RainbowRoad": {
+      "N/A": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "YoshiCircuit": {
+      "N/A": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "LuigisMansion": {
+      "N/A": {
+        "x": 192,
+        "y": 136
+      }
+    },
+    "SherbetLand": {
+      "N/A": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "PeachBeach": {
+      "N/A": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "DKMountain": {
+      "N/A": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "NintendoGameCube": {
+      "N/A": {
+        "x": 192,
+        "y": 136
+      }
+    },
+    "BlockCity": {
+      "N/A": {
+        "x": 192,
+        "y": 136
+      }
+    },
+    "WaluigiStadium": {
+      "N/A": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "PipePlaza": {
+      "N/A": {
+        "x": 192,
+        "y": 136
+      }
+    },
+    "DaisyCruiser": {
+      "N/A": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "MushroomBridge": {
+      "N/A": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "MushroomCity": {
+      "N/A": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "LuigiCircuit": {
+      "N/A": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "TiltaKart": {
+      "N/A": {
+        "x": 192,
+        "y": 136
+      }
+    },
+    "CookieLand": {
+      "N/A": {
+        "x": 192,
+        "y": 136
+      }
+    },
+    "DryDryDesert": {
+      "N/A": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "BowsersCastle": {
+      "N/A": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "MarioCircuit": {
+      "N/A": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "BabyPark": {
+      "N/A": {
+        "x": 256,
+        "y": 184
+      }
+    },
+    "WarioColosseum": {
+      "N/A": {
+        "x": 256,
+        "y": 184
+      }
+    }
   }
 }

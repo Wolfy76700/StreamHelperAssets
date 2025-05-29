@@ -11,5 +11,133 @@
   "average_size": {
     "x": 64.0,
     "y": 64.0
+  },
+  "image_sizes": {
+    "RattleBuggy": {
+      "N/A": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "TurboBirdo": {
+      "N/A": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "GooGooBuggy": {
+      "N/A": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "BloomCoach": {
+      "N/A": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "KoopaKing": {
+      "N/A": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "WaluigiRacer": {
+      "N/A": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "GreenFire": {
+      "N/A": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "ToadetteKart": {
+      "N/A": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "ParadeKart": {
+      "N/A": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "BarrelTrain": {
+      "N/A": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "BooPipes": {
+      "N/A": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "DKJumbo": {
+      "N/A": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "KoopaDasher": {
+      "N/A": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "RedFire": {
+      "N/A": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "TurboYoshi": {
+      "N/A": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "WarioCar": {
+      "N/A": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "ParaWing": {
+      "N/A": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "ToadKart": {
+      "N/A": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "BulletBlaster": {
+      "N/A": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "HeartCoach": {
+      "N/A": {
+        "x": 64,
+        "y": 64
+      }
+    },
+    "PiranhaPipes": {
+      "N/A": {
+        "x": 64,
+        "y": 64
+      }
+    }
   }
 }

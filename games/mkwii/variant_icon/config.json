@@ -11,5 +11,223 @@
   "average_size": {
     "x": 78.94444444444444,
     "y": 44.361111111111114
+  },
+  "image_sizes": {
+    "StandardBikeL": {
+      "N/A": {
+        "x": 66,
+        "y": 46
+      }
+    },
+    "ClassicDragster": {
+      "N/A": {
+        "x": 91,
+        "y": 44
+      }
+    },
+    "MachBike": {
+      "N/A": {
+        "x": 73,
+        "y": 48
+      }
+    },
+    "Sugarscoot": {
+      "N/A": {
+        "x": 65,
+        "y": 47
+      }
+    },
+    "FlameRunner": {
+      "N/A": {
+        "x": 77,
+        "y": 48
+      }
+    },
+    "Quacker": {
+      "N/A": {
+        "x": 57,
+        "y": 47
+      }
+    },
+    "StandardBikeM": {
+      "N/A": {
+        "x": 66,
+        "y": 46
+      }
+    },
+    "BoosterSeat": {
+      "N/A": {
+        "x": 77,
+        "y": 50
+      }
+    },
+    "Spear": {
+      "N/A": {
+        "x": 86,
+        "y": 45
+      }
+    },
+    "StandardKartS": {
+      "N/A": {
+        "x": 91,
+        "y": 36
+      }
+    },
+    "Daytripper": {
+      "N/A": {
+        "x": 78,
+        "y": 45
+      }
+    },
+    "Phantom": {
+      "N/A": {
+        "x": 87,
+        "y": 45
+      }
+    },
+    "JetBubble": {
+      "N/A": {
+        "x": 78,
+        "y": 48
+      }
+    },
+    "Magikruiser": {
+      "N/A": {
+        "x": 76,
+        "y": 47
+      }
+    },
+    "BlueFalcon": {
+      "N/A": {
+        "x": 92,
+        "y": 36
+      }
+    },
+    "WarioBike": {
+      "N/A": {
+        "x": 66,
+        "y": 50
+      }
+    },
+    "Sneakster": {
+      "N/A": {
+        "x": 83,
+        "y": 47
+      }
+    },
+    "ZipZip": {
+      "N/A": {
+        "x": 64,
+        "y": 45
+      }
+    },
+    "BitBike": {
+      "N/A": {
+        "x": 79,
+        "y": 45
+      }
+    },
+    "DolphinDasher": {
+      "N/A": {
+        "x": 80,
+        "y": 45
+      }
+    },
+    "SuperBlooper": {
+      "N/A": {
+        "x": 85,
+        "y": 39
+      }
+    },
+    "FlameFlyer": {
+      "N/A": {
+        "x": 90,
+        "y": 42
+      }
+    },
+    "CheepCharger": {
+      "N/A": {
+        "x": 66,
+        "y": 44
+      }
+    },
+    "Honeycoupe": {
+      "N/A": {
+        "x": 92,
+        "y": 38
+      }
+    },
+    "Offroader": {
+      "N/A": {
+        "x": 71,
+        "y": 48
+      }
+    },
+    "Sprinter": {
+      "N/A": {
+        "x": 83,
+        "y": 46
+      }
+    },
+    "BulletBike": {
+      "N/A": {
+        "x": 83,
+        "y": 45
+      }
+    },
+    "ShootingStar": {
+      "N/A": {
+        "x": 71,
+        "y": 48
+      }
+    },
+    "TinyTitan": {
+      "N/A": {
+        "x": 67,
+        "y": 48
+      }
+    },
+    "StandardBikeS": {
+      "N/A": {
+        "x": 82,
+        "y": 45
+      }
+    },
+    "MiniBeast": {
+      "N/A": {
+        "x": 83,
+        "y": 46
+      }
+    },
+    "Jetsetter": {
+      "N/A": {
+        "x": 92,
+        "y": 34
+      }
+    },
+    "StandardKartL": {
+      "N/A": {
+        "x": 90,
+        "y": 37
+      }
+    },
+    "PiranhaProwler": {
+      "N/A": {
+        "x": 76,
+        "y": 46
+      }
+    },
+    "WildWing": {
+      "N/A": {
+        "x": 89,
+        "y": 42
+      }
+    },
+    "StandardKartM": {
+      "N/A": {
+        "x": 90,
+        "y": 39
+      }
+    }
   }
 }
