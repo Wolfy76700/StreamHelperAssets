@@ -13,10 +13,12 @@
         "2": {
           "name": "Momo"
         }
-      }
+      },
+      "parrygg_slug": "aang"
     },
     "Avatar State Aang": {
-      "codename": "AangA"
+      "codename": "AangA",
+      "parrygg_slug": "avatar-state-aang"
     },
     "Katara": {
       "codename": "Katara",
@@ -30,7 +32,8 @@
         "2": {
           "name": "Hakoda"
         }
-      }
+      },
+      "parrygg_slug": "katara"
     },
     "Korra": {
       "codename": "Korra",
@@ -44,10 +47,12 @@
         "2": {
           "name": "Tonraq"
         }
-      }
+      },
+      "parrygg_slug": "korra"
     },
     "Nightmare Korra": {
-      "codename": "KorraA"
+      "codename": "KorraA",
+      "parrygg_slug": "nightmare-korra"
     },
     "Toph": {
       "codename": "Toph",
@@ -61,7 +66,8 @@
         "2": {
           "name": "The Big Bad Hippo"
         }
-      }
+      },
+      "parrygg_slug": "toph"
     },
     "Zuko": {
       "codename": "Zuko",
@@ -75,7 +81,8 @@
         "2": {
           "name": "Ran & Shaw"
         }
-      }
+      },
+      "parrygg_slug": "zuko"
     },
     "Azula": {
       "codename": "Azula",
@@ -89,7 +96,8 @@
         "2": {
           "name": "Ursa"
         }
-      }
+      },
+      "parrygg_slug": "azula"
     },
     "Kyoshi": {
       "codename": "Kyoshi",
@@ -103,10 +111,12 @@
         "2": {
           "name": "Yun"
         }
-      }
+      },
+      "parrygg_slug": "kyoshi"
     },
     "Ozai": {
-      "codename": "Ozai"
+      "codename": "Ozai",
+      "parrygg_slug": "ozai"
     },
     "Sokka": {
       "codename": "Sokka",
@@ -120,10 +130,12 @@
         "2": {
           "name": "Yue"
         }
-      }
+      },
+      "parrygg_slug": "sokka"
     },
     "Zaheer": {
-      "codename": "Zaheer"
+      "codename": "Zaheer",
+      "parrygg_slug": "zaheer"
     },
     "Iroh": {
       "codename": "Iroh"
