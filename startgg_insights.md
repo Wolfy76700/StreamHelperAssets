@@ -12,7 +12,19 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (3/3)
 
 ## Avatar Legends: The Fighting Game
-Game has no characters in startgg...? Or do we have a wrong game id?
+- Character [Avatar State Aang] not assigned in TSH!
+- Character [Azula] not assigned in TSH!
+- Character [Korra] not assigned in TSH!
+- Character [Nightmare Korra] not assigned in TSH!
+- Character [Ozai] not assigned in TSH!
+- Character [Zaheer] not assigned in TSH!
+- Character [Aang] not assigned in TSH!
+- Character [Katara] not assigned in TSH!
+- Character [Kyoshi] not assigned in TSH!
+- Character [Sokka] not assigned in TSH!
+- Character [Toph] not assigned in TSH!
+- Character [Zuko] not assigned in TSH!
+### Coverage: (0/12)
 
 ## Among Us Arena Ultimate
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -62,6 +74,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Blazing Strike
 Game has no characters in startgg...? Or do we have a wrong game id?
+
+## Brawlout
+### Coverage: (26/26)
 
 ## Breakers Revenge
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -187,9 +202,8 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (39/40)
 
 ## Guilty Gear -STRIVE-
-- Character [Robo-Ky]: Character name [Robo-Ky] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (33/34)
+### Coverage: (34/35)
 
 ## Guilty Gear Xrd REV 2
 ### Coverage: (25/25)
@@ -604,12 +618,11 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (20/20)
 
 ## Street Fighter 6
-- Character [Yasmine]: Character name [Yasmine] doesn't exist in StartGG
 - Character [Bosch]: Character name [Bosch] doesn't exist in StartGG
 - Character [Arjun]: Character name [Arjun] doesn't exist in StartGG
 - Character [Tifa]: Character name [Tifa] doesn't exist in StartGG
 - Character [Random] not assigned in TSH!
-### Coverage: (30/31)
+### Coverage: (31/32)
 
 ## Street Fighter Alpha 2
 Game has no characters in startgg...? Or do we have a wrong game id?
@@ -636,12 +649,7 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 Game has no characters in startgg...? Or do we have a wrong game id?
 
 ## Skullgirls: 2nd Encore+
-- Character [Fukua]: Character name [Fukua] doesn't exist in StartGG
-- Character [Annie]: Character name [Annie] doesn't exist in StartGG
-- Character [Umbrella]: Character name [Umbrella] doesn't exist in StartGG
-- Character [Black Dahlia]: Character name [Black Dahlia] doesn't exist in StartGG
-- Character [Marie]: Character name [Marie] doesn't exist in StartGG
-### Coverage: (13/13)
+### Coverage: (18/18)
 
 ## Slap City
 ### Coverage: (11/11)
@@ -755,10 +763,9 @@ Game has no characters in startgg...? Or do we have a wrong game id?
 ### Coverage: (51/52)
 
 ## Tekken 8
-- Character [Robert "Bob" Richards]: Character name [Bob] doesn't exist in StartGG
 - Character [Roger Jr.]: Character name [Roger Jr.] doesn't exist in StartGG
 - Character [Yujiro Hanma]: Character name [Yujiro] doesn't exist in StartGG
-### Coverage: (42/42)
+### Coverage: (43/43)
 
 ## Them's Fightin' Herds
 ### Coverage: (11/11)

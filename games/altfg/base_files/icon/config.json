@@ -4,7 +4,7 @@
   "type": [
     "icon"
   ],
-  "version": "26.07.21.66403",
+  "version": "26.07.29.68079",
   "rescaling_factor": {
     "Aang": {
       "0": 1.0067114093959733
@@ -45,7 +45,8 @@
     "Iroh": {},
     "TyLee": {},
     "Lin": {},
-    "Bolin": {}
+    "Bolin": {},
+    "Tagah": {}
   },
   "image_sizes": {
     "Aang": {

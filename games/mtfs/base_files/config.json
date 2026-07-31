@@ -92,6 +92,9 @@
     "Deadpool": {
       "codename": "Deadpool",
       "parrygg_slug": "deadpool"
+    },
+    "Phoenix Cyclops": {
+      "codename": "Cyclops"
     }
   },
   "credits": "Images ripped from https://www.playstation.com/en-us/games/marvel-tokon-fighting-souls",
@@ -140,7 +143,7 @@
       "parrygg_slug": "asgard"
     }
   },
-  "version": "26.06.29.66449",
+  "version": "26.07.25.12547",
   "igdb_game_id": "marvel-tokon-fighting-souls",
   "locale": {
     "ja": {

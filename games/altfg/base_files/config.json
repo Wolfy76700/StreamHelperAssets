@@ -14,7 +14,8 @@
           "name": "Momo"
         }
       },
-      "parrygg_slug": "aang"
+      "parrygg_slug": "aang",
+      "smashgg_name": "Aang"
     },
     "Avatar State Aang": {
       "codename": "AangA",
@@ -22,8 +23,15 @@
       "skin_name": {
         "0": {
           "name": "Katara"
+        },
+        "1": {
+          "name": "Roku"
+        },
+        "2": {
+          "name": "Guru Pathik"
         }
-      }
+      },
+      "smashgg_name": "Avatar State Aang"
     },
     "Katara": {
       "codename": "Katara",
@@ -38,7 +46,8 @@
           "name": "Hakoda"
         }
       },
-      "parrygg_slug": "katara"
+      "parrygg_slug": "katara",
+      "smashgg_name": "Katara"
     },
     "Korra": {
       "codename": "Korra",
@@ -53,7 +62,8 @@
           "name": "Tonraq"
         }
       },
-      "parrygg_slug": "korra"
+      "parrygg_slug": "korra",
+      "smashgg_name": "Korra"
     },
     "Nightmare Korra": {
       "codename": "KorraA",
@@ -68,7 +78,8 @@
         "2": {
           "name": "Unalaq"
         }
-      }
+      },
+      "smashgg_name": "Nightmare Korra"
     },
     "Toph": {
       "codename": "Toph",
@@ -83,7 +94,8 @@
           "name": "The Big Bad Hippo"
         }
       },
-      "parrygg_slug": "toph"
+      "parrygg_slug": "toph",
+      "smashgg_name": "Toph"
     },
     "Zuko": {
       "codename": "Zuko",
@@ -98,7 +110,8 @@
           "name": "Ran & Shaw"
         }
       },
-      "parrygg_slug": "zuko"
+      "parrygg_slug": "zuko",
+      "smashgg_name": "Zuko"
     },
     "Azula": {
       "codename": "Azula",
@@ -113,7 +126,8 @@
           "name": "Ursa"
         }
       },
-      "parrygg_slug": "azula"
+      "parrygg_slug": "azula",
+      "smashgg_name": "Azula"
     },
     "Kyoshi": {
       "codename": "Kyoshi",
@@ -128,7 +142,8 @@
           "name": "Yun"
         }
       },
-      "parrygg_slug": "kyoshi"
+      "parrygg_slug": "kyoshi",
+      "smashgg_name": "Kyoshi"
     },
     "Ozai": {
       "codename": "Ozai",
@@ -136,8 +151,15 @@
       "skin_name": {
         "0": {
           "name": "Sozin"
+        },
+        "1": {
+          "name": "Zhao"
+        },
+        "2": {
+          "name": "Imperial Firebender"
         }
-      }
+      },
+      "smashgg_name": "Ozai"
     },
     "Sokka": {
       "codename": "Sokka",
@@ -152,7 +174,8 @@
           "name": "Yue"
         }
       },
-      "parrygg_slug": "sokka"
+      "parrygg_slug": "sokka",
+      "smashgg_name": "Sokka"
     },
     "Zaheer": {
       "codename": "Zaheer",
@@ -167,19 +190,28 @@
         "2": {
           "name": "Ghazan"
         }
-      }
+      },
+      "smashgg_name": "Zaheer"
     },
     "Iroh": {
-      "codename": "Iroh"
+      "codename": "Iroh",
+      "smashgg_name": "Iroh"
     },
     "Ty Lee": {
-      "codename": "TyLee"
+      "codename": "TyLee",
+      "smashgg_name": "Ty Lee"
     },
     "Lin": {
-      "codename": "Lin"
+      "codename": "Lin",
+      "smashgg_name": "Lin"
     },
     "Bolin": {
-      "codename": "Bolin"
+      "codename": "Bolin",
+      "smashgg_name": "Bolin"
+    },
+    "Tagah": {
+      "codename": "Tagah",
+      "smashgg_name": "Tagah"
     }
   },
   "credits": "Assets ripped from Supercombo Wiki (https://wiki.supercombo.gg/w/Avatar_Legends)",
@@ -187,6 +219,6 @@
   "name": "Avatar Legends: The Fighting Game",
   "smashgg_game_id": 114292,
   "stage_to_codename": {},
-  "version": "26.07.21.66403",
+  "version": "26.07.30.55566",
   "igdb_game_id": "avatar-legends-the-fighting-game"
 }

@@ -777,10 +777,80 @@
       "igdb_playable_list": [
         "ultimate-marvel-vs-capcom-3-community-edition"
       ]
+    },
+    "8-Ball": {
+      "codename": "EightBall",
+      "modded": true,
+      "igdb_playable_list": [
+        "ultimate-marvel-vs-capcom-3-community-edition"
+      ]
+    },
+    "Hideo Shimazu": {
+      "codename": "Hideo",
+      "modded": true,
+      "igdb_playable_list": [
+        "ultimate-marvel-vs-capcom-3-community-edition"
+      ]
+    },
+    "Juggernaut": {
+      "codename": "Jugs",
+      "modded": true,
+      "igdb_playable_list": [
+        "ultimate-marvel-vs-capcom-3-community-edition"
+      ]
+    },
+    "Kyoko Minazuki": {
+      "codename": "Kyoko",
+      "modded": true,
+      "igdb_playable_list": [
+        "ultimate-marvel-vs-capcom-3-community-edition"
+      ]
+    },
+    "Magma Dragoon": {
+      "codename": "MaDra",
+      "modded": true,
+      "igdb_playable_list": [
+        "ultimate-marvel-vs-capcom-3-community-edition"
+      ]
+    },
+    "Oni": {
+      "codename": "OniHN",
+      "modded": true,
+      "igdb_playable_list": [
+        "ultimate-marvel-vs-capcom-3-community-edition"
+      ]
+    },
+    "Prowler": {
+      "codename": "Prowler",
+      "modded": true,
+      "igdb_playable_list": [
+        "ultimate-marvel-vs-capcom-3-community-edition"
+      ]
+    },
+    "Sean Matsuda": {
+      "codename": "Sea",
+      "modded": true,
+      "igdb_playable_list": [
+        "ultimate-marvel-vs-capcom-3-community-edition"
+      ]
+    },
+    "Mega Man": {
+      "codename": "MMan",
+      "modded": true,
+      "igdb_playable_list": [
+        "ultimate-marvel-vs-capcom-3-community-edition"
+      ]
+    },
+    "Bass": {
+      "codename": "Bass",
+      "modded": true,
+      "igdb_playable_list": [
+        "ultimate-marvel-vs-capcom-3-community-edition"
+      ]
     }
   },
   "stage_to_codename": {},
-  "version": "26.06.24.64582",
+  "version": "26.07.29.68079",
   "description": "Base config to use this game.\nIncludes modded characters and costumes from UMVC3 Community Edition (https://www.nexusmods.com/ultimatemarvelvscapcom3/mods/286)",
   "credits": "",
   "defaults": {
