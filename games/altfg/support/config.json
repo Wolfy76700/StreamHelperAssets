@@ -1,7 +1,7 @@
 {
   "credits": "Assets ripped by Cherry (Bluesky: @cherrynasb.com)",
-  "description": "Support characters",
-  "name": "Supports",
+  "description": "Portraits for support characters",
+  "name": "Support portraits",
   "postfix": "_",
   "prefix": "file_",
   "type": [
